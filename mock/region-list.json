@@ -1,0 +1,64 @@
+{
+    "code": null,
+    "msg": null,
+    "data": {
+        "regionList": [
+            {
+                "code": "111",
+                "name": "昆明市",
+                "pinyinSimple": "string",
+                "pinyinFull": "string",
+                "subRegionList": [
+                    {
+                        "code": "1101",
+                        "name": "西山区",
+                        "pinyinSimple": "BJS",
+                        "pinyinFull": "BeiJingShi",
+                        "subRegionList": [
+                          {"code": "110101", "name": "XX乡", "pinyinSimple": "DCQ", "pinyinFull": "DongChengQu", "subRegionList": []},
+                          {"code": "110102", "name": "YY镇", "pinyinSimple": "DCQ", "pinyinFull": "DongChengQu", "subRegionList": []}
+                        ]
+                    },
+                    {
+                        "code": "1102",
+                        "name": "盘龙区",
+                        "pinyinSimple": "BJS",
+                        "pinyinFull": "BeiJingShi",
+                        "subRegionList": [
+                          {"code": "110201", "name": "XX乡", "pinyinSimple": "DCQ", "pinyinFull": "DongChengQu", "subRegionList": []},
+                          {"code": "110202", "name": "YY镇", "pinyinSimple": "DCQ", "pinyinFull": "DongChengQu", "subRegionList": []}
+                        ]
+                    }
+                ]
+            },
+            {
+                "code": "222",
+                "name": "大理州",
+                "pinyinSimple": "string",
+                "pinyinFull": "string",
+                "subRegionList": [
+                    {
+                        "code": "2201",
+                        "name": "大理市",
+                        "pinyinSimple": "BJS",
+                        "pinyinFull": "BeiJingShi",
+                        "subRegionList": [
+                          {"code": "220101", "name": "XX乡", "pinyinSimple": "DCQ", "pinyinFull": "DongChengQu", "subRegionList": []},
+                          {"code": "220102", "name": "YY镇", "pinyinSimple": "DCQ", "pinyinFull": "DongChengQu", "subRegionList": []}
+                        ]
+                    },
+                    {
+                        "code": "2202",
+                        "name": "永平县",
+                        "pinyinSimple": "BJS",
+                        "pinyinFull": "BeiJingShi",
+                        "subRegionList": [
+                          {"code": "220201", "name": "XX乡", "pinyinSimple": "DCQ", "pinyinFull": "DongChengQu", "subRegionList": []},
+                          {"code": "220202", "name": "YY镇", "pinyinSimple": "DCQ", "pinyinFull": "DongChengQu", "subRegionList": []}
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
